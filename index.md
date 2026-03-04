@@ -3,6 +3,6 @@ layout: home
 title: Home
 ---
 
-# 웹 3
+# 메일 주소
 
-저장소이다.
+gh10043510@gmail.com
