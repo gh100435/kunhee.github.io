@@ -3,6 +3,6 @@ layout: home
 title: Home
 ---
 
-# 저장소
+# 웹 3
 
 저장소이다.
